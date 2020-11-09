@@ -6,7 +6,7 @@ You can find my Github CV [here](https://github.com/Djura22/CV-1) and my LinkedI
 
 - 📖 I'm currently learning: Data Analytics in Python
 
-- I'm currently building: A retro gaming console using <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>" />
+- 📟 I'm currently building: A retro gaming console using <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>"
 
 - 📫 How to reach me: michaeliangroves@gmail.com
 
