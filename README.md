@@ -1,6 +1,6 @@
 I am a Software Engineer from Brighton freshly graduated from Makers Academy, London.
 
-You can find my Github CV [here](https://github.com/Djura22/CV-1)
+You can find my CV [here](https://github.com/Djura22/CV-1)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Djura22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-groves-4a807b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Djura22)  
 
