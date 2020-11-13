@@ -8,7 +8,7 @@ You can find my CV [here](https://github.com/Djura22/CV-1)
 
 - 📖 I'm currently learning: Data Analytics in Python
 
-- 📟 I'm currently building: A retro gaming console using <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+- 📟 I'm currently building: A retro gaming console using a Raspberry Pi
 
 - 📫 How to reach me: michaeliangroves@gmail.com
 
