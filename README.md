@@ -6,9 +6,9 @@ You can find my CV [here](https://github.com/Djura22/CV-1)
 
 - 💻 Status: Job hunting
 
-- 📖 I'm currently learning: Data Analytics in Python
+- 📖 I'm currently learning: Java, Spring
 
-- 📟 I'm currently building: A retro gaming console using a Raspberry Pi
+- 📟 I'm currently building: A Coronavirus Tracker
 
 - 📫 How to reach me: michaeliangroves@gmail.com
 
