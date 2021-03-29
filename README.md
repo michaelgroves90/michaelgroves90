@@ -6,7 +6,7 @@ You can find my CV [here](https://github.com/Djura22/CV-1)
 
 - 💻 Status: Job hunting
 
-- 📖 I'm currently learning: Python
+- 📖 I'm currently learning: TypeScript
 
 - 📫 How to reach me: michaeliangroves@gmail.com
 
