@@ -1,4 +1,4 @@
-I am a Software Engineer from Brighton freshly graduated from Makers Academy, London.
+I am a Software Engineer from Brighton and graduate of Makers Academy, London.
 
 You can find my CV [here](https://github.com/Djura22/CV-1)
 
