@@ -12,11 +12,10 @@ You can find my CV [here](https://github.com/Djura22/CV-1)
 
 <img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 
-Open API · Mockito · JUnit · PLSQL · Docker · Gitlab
-Oracle Database · Maven · Gradle · IntelliJ IDEA · DevOps
-Spring Hibernate · Java Database Connectivity (JDBC) · Postman
-Continuous Integration and Continuous Delivery (CI/CD)
-Kubernetes · Test Driven Development
-
+Open API · Mockito · JUnit · PLSQL · Docker · Gitlab <br>
+Oracle Database · Maven · Gradle · IntelliJ IDEA · DevOps <br>
+Spring Hibernate · Java Database Connectivity (JDBC) · Postman <br>
+Continuous Integration and Continuous Delivery (CI/CD) <br>
+Kubernetes · Test Driven Development 
 
 
