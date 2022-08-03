@@ -10,11 +10,9 @@ You can find my CV [here](https://github.com/Djura22/CV-1)
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+Open API · Mockito · JUnit · PLSQL · Docker · Gitlab · Oracle Database · Maven · Gradle · IntelliJ IDEA · DevOps · Hibernate · Java Database Connectivity (JDBC) · Postman · Java · Continuous Integration and Continuous Delivery (CI/CD) · Kubernetes · Spring Boot · Test Driven Development
 
 
 
