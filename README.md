@@ -1,21 +1,8 @@
-I am a Software Consultant based in Shropshire
+I am a Software Developer based in Brighton
 
-You can find my CV [here](https://github.com/Djura22/CV-1)
+You can find my CV [here](https://github.com/michaelgroves90/CV-1)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Djura22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-groves-4a807b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Djura22)  
-
-- 📖 I'm currently learning: React JS
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/michaelgroves90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-groves-4a807b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Djura22)  
 
 - 📫 How to reach me: michaeliangroves@gmail.com
-
-### Technologies
-
-<img src="https://img.shields.io/badge/-Java-orange?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-
-Open API · Mockito · JUnit · PLSQL · Docker · Gitlab <br>
-Oracle Database · Maven · Gradle · IntelliJ IDEA · DevOps <br>
-Spring Hibernate · Java Database Connectivity (JDBC) · Postman <br>
-Continuous Integration and Continuous Delivery (CI/CD) <br>
-Kubernetes · Test Driven Development 
-
 
